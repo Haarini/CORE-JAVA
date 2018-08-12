@@ -21,7 +21,7 @@ class add_nanr
     public static void main(String args[])
     {
         
-        Rextester o=new Rextester();
+        add_nanr o=new add_nanr();
         o.add();
      
 }
